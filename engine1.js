@@ -1,3 +1,4 @@
+// This function is only for demonstration purposes.
 // This function creates subarrays from ls and store them in an array. 
 function chooseBestSum(k, ls) {
     let slicedLs = [];
