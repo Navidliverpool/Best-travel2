@@ -1,0 +1,2 @@
+I decided to leave this pseudocode at this point as it's seems to take me a lot of time to figure out 
+how to write a solution for it. 
